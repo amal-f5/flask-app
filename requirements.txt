@@ -2,21 +2,21 @@ async-timeout==4.0.2
 attrs==21.4.0
 brotlipy==0.7.0
 certifi==2021.10.8
-cffi @ file:///Users/builder/ci_310/cffi_1643393868399/work
+cffi==1.15.0
 charset-normalizer==2.0.12
 click==8.1.2
 clickclick==20.10.2
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+colorama==0.4.4
 conda==4.12.0
-conda-package-handling @ file:///opt/concourse/worker/volumes/live/bca0bf24-f9cb-457d-4f6e-bfa0e136cd79/volume/conda-package-handling_1649105801900/work
+conda-package-handling==1.8.1
 connexion==2.13.0
-cryptography @ file:///Users/builder/ci_310/cryptography_1642543758909/work
+cryptography==36.0.0
 Deprecated==1.2.13
 Flask==1.1.2
 Flask-Testing==0.8.1
 gitdb==4.0.9
 GitPython==3.1.27
-idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+idna==3.3
 importlib-metadata==4.11.3
 importlib-resources==5.6.0
 inflection==0.5.1
@@ -26,22 +26,25 @@ jsonschema==4.4.0
 MarkupSafe==2.1.1
 msgpack==1.0.3
 packaging==21.3
+pip==21.2.4
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pycparser==2.21
+pyOpenSSL==22.0.0
 pyparsing==3.0.7
 pyrsistent==0.18.1
-PySocks @ file:///Users/builder/ci_310/pysocks_1642536366386/work
+PySocks==1.7.1
 python-dateutil==2.8.2
 PyYAML==6.0
 redis==4.2.2
-requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
-ruamel-yaml-conda @ file:///Users/builder/ci_310/ruamel_yaml_1642537156360/work
+requests==2.27.1
+ruamel-yaml-conda==0.15.100
+setuptools==58.0.4
 six==1.16.0
 smmap==5.0.0
 swagger-ui-bundle==0.0.9
-tqdm @ file:///opt/conda/conda-bld/tqdm_1647339053476/work
+tqdm==4.63.0
 urllib3==1.26.9
 Werkzeug==2.1.1
+wheel==0.37.1
 wrapt==1.14.0
 zipp==3.8.0
